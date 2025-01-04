@@ -1,0 +1,41 @@
+Route_ID,Origin,Destination,Distance (miles)
+1,Wembley,Slough,0.86
+2,London,Slough,0.7
+3,Luton,Harrow,3.57
+4,St Albans,Harrow,2.43
+5,Reading,Slough,4.33
+6,Harrow,Reading,2.15
+7,Watford,London,0.99
+8,Reading,Guildford,0.17
+9,Wembley,Luton,0.4
+10,Slough,Guildford,2.52
+11,Slough,Guildford,3.89
+12,Luton,Slough,2.03
+13,Slough,Watford,4.21
+14,Wembley,Watford,4.14
+15,London,Wembley,3.39
+16,Slough,Reading,3.27
+17,Croydon,Wembley,2.02
+18,Croydon,Guildford,0.87
+19,Watford,Croydon,3.41
+20,Croydon,London,2.77
+21,Guildford,Reading,0.54
+22,Slough,London,3.97
+23,London,Luton,0.41
+24,Wembley,Harrow,0.46
+25,Watford,Reading,2.79
+26,London,Croydon,2.98
+27,Harrow,Luton,1.19
+28,Wembley,Watford,1.49
+29,Watford,St Albans,4.2
+30,Harrow,Wembley,1.78
+31,Croydon,Watford,0.58
+32,Luton,St Albans,2.33
+33,Harrow,Reading,2.12
+34,London,Croydon,1.73
+35,Guildford,St Albans,0.27
+36,Croydon,Slough,2.83
+37,Reading,Croydon,4.04
+38,Wembley,Watford,3.04
+39,Guildford,Croydon,2.83
+40,Slough,Watford,0.3
