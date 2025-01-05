@@ -1,0 +1,91 @@
+routeid,origin,destination,distance
+1,London,Croydon,8.78
+2,London,Harrow,5.9
+3,London,Wembley,5.42
+4,London,Watford,5.27
+5,London,Reading,5.92
+6,London,Slough,6.62
+7,London,Guildford,8.02
+8,London,Luton,5.27
+9,London,St Albans,5.4
+10,Croydon,London,5.13
+11,Croydon,Harrow,9.06
+12,Croydon,Wembley,9.89
+13,Croydon,Watford,5.94
+14,Croydon,Reading,6.27
+15,Croydon,Slough,7.94
+16,Croydon,Guildford,6.77
+17,Croydon,Luton,7.53
+18,Croydon,St Albans,9.65
+19,Harrow,London,8.76
+20,Harrow,Croydon,5.08
+21,Harrow,Wembley,5.61
+22,Harrow,Watford,7.25
+23,Harrow,Reading,5.89
+24,Harrow,Slough,8.88
+25,Harrow,Guildford,8.25
+26,Harrow,Luton,9.05
+27,Harrow,St Albans,7.1
+28,Wembley,London,9.35
+29,Wembley,Croydon,5.12
+30,Wembley,Harrow,7.83
+31,Wembley,Watford,9.93
+32,Wembley,Reading,5.02
+33,Wembley,Slough,6.69
+34,Wembley,Guildford,8.74
+35,Wembley,Luton,6.38
+36,Wembley,St Albans,8.94
+37,Watford,London,7.25
+38,Watford,Croydon,9.39
+39,Watford,Harrow,9.68
+40,Watford,Wembley,7.5
+41,Watford,Reading,6.9
+42,Watford,Slough,9.32
+43,Watford,Guildford,7.06
+44,Watford,Luton,9.93
+45,Watford,St Albans,5.88
+46,Reading,London,9.93
+47,Reading,Croydon,8.33
+48,Reading,Harrow,7.96
+49,Reading,Wembley,9.06
+50,Reading,Watford,9.13
+51,Reading,Slough,8.96
+52,Reading,Guildford,7.12
+53,Reading,Luton,7.07
+54,Reading,St Albans,9.21
+55,Slough,London,8.31
+56,Slough,Croydon,9.25
+57,Slough,Harrow,5.84
+58,Slough,Wembley,8.25
+59,Slough,Watford,7.74
+60,Slough,Reading,7.81
+61,Slough,Guildford,7.73
+62,Slough,Luton,5.05
+63,Slough,St Albans,6.56
+64,Guildford,London,7.88
+65,Guildford,Croydon,7.55
+66,Guildford,Harrow,5.02
+67,Guildford,Wembley,5.04
+68,Guildford,Watford,8.45
+69,Guildford,Reading,9.19
+70,Guildford,Slough,9.54
+71,Guildford,Luton,8.27
+72,Guildford,St Albans,5.62
+73,Luton,London,8.94
+74,Luton,Croydon,8.8
+75,Luton,Harrow,8.73
+76,Luton,Wembley,8.5
+77,Luton,Watford,7.46
+78,Luton,Reading,5.63
+79,Luton,Slough,9.93
+80,Luton,Guildford,5.88
+81,Luton,St Albans,6.73
+82,St Albans,London,5.62
+83,St Albans,Croydon,7.85
+84,St Albans,Harrow,8.23
+85,St Albans,Wembley,5.75
+86,St Albans,Watford,5.57
+87,St Albans,Reading,6.52
+88,St Albans,Slough,9.62
+89,St Albans,Guildford,5.36
+90,St Albans,Luton,8.23
